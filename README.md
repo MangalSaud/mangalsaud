@@ -76,3 +76,84 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mangalsaud&show_icons=true&locale=en" alt="mangalsaud" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mangalsaud&" alt="mangalsaud" /></p>
+
+
+
+
+
+# Hi there! 👋 I'm Mangal Saud
+
+### 🚀 Full Stack Web Developer | MERN Stack Developer | UI/UX Designer
+
+Welcome to my GitHub profile! I'm a passionate full stack web developer with a strong focus on creating interactive and user-friendly applications. My expertise lies in the MERN stack, and I have a keen eye for UI/UX design to deliver seamless user experiences.
+
+---
+
+### 🛠️ **Technologies & Tools I Use**
+
+- **Frontend:** HTML5, CSS3, JavaScript, React.js, Next.js
+- **Backend:** Node.js, Express.js, PHP, Laravel
+- **Database:** MongoDB, MySQL
+- **Design:** Figma, Adobe XD, Photoshop, Illustrator
+- **Other Skills:** SEO, Git & GitHub, RESTful APIs, JSON, AJAX, Responsive Web Design
+
+---
+
+### 🌱 **What I'm Currently Learning**
+
+- Advanced React patterns and hooks
+- TypeScript for scalable JavaScript development
+- CI/CD pipelines and DevOps practices
+
+---
+
+### 💼 **My Projects**
+
+Here are some highlights of the projects I've worked on:
+
+- **[Project Name 1](#):** A brief description of your project. (e.g., A full stack e-commerce application built using the MERN stack.)
+- **[Project Name 2](#):** A brief description of your project. (e.g., A responsive portfolio website with a focus on UX design.)
+- **[Project Name 3](#):** A brief description of your project. (e.g., A real-time chat application using WebSocket and Node.js.)
+
+For more, check out my [repositories](https://github.com/your-username?tab=repositories).
+
+---
+
+### ✨ **UI/UX Design Approach**
+
+My design philosophy is centered around creating user-centric interfaces that are not only visually appealing but also intuitive and easy to use. I believe that a good design is the key to a great user experience.
+
+---
+
+### 📫 **Get in Touch**
+
+- LinkedIn: [Your LinkedIn Profile](#)
+- Portfolio: [Your Portfolio Website](#)
+- Email: [your.email@example.com](mailto:your.email@example.com)
+
+Feel free to reach out if you'd like to collaborate on a project or just chat about tech and design!
+
+---
+
+### 🧠 **Fun Fact**
+
+I'm constantly exploring new technologies and design trends to stay ahead of the curve. When I'm not coding, you can find me sketching new UI ideas or playing chess.
+
+---
+
+### 🔗 **Connect with Me**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+
+---
+
+### 🎯 **My GitHub Stats**
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
+Thank you for visiting my profile! 🙏 Let's build something amazing together.
